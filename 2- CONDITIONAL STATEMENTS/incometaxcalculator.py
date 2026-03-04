@@ -1,4 +1,4 @@
-#for fy 2025-2026
+#for fy 2025-2026[AY(2026-2027)]
 income=int(input("enter your income:"))
 if(income<=400000):
     print("no tax")
