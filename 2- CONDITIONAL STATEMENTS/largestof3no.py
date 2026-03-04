@@ -1,3 +1,4 @@
+#this code is use to find greatest no among 3 no.
 a=int(input("enter 1st no :"))
 b=int(input("enter 2nd no :"))
 c=int(input("enter 3rd no :"))
